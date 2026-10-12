@@ -13,7 +13,7 @@ A short, lightweight Python script to instantly convert URLs or plain text into 
 Before running the script, make sure you have Python installed, along with the standard `qrcode` library and image support:
 
 ```bash
-pip install qrcode pillow
+pip install qrcode
 ```
 
 ## 📦 How to Use
