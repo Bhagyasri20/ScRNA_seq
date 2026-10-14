@@ -1,0 +1,280 @@
+model,type,id,change
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_trdox_c,formula set to X
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_fdxox_c,formula set to X
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GTHS,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GUAD,stoichiometry changed: M_h_c -1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_METS,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_IPDDI,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GLCS3,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A120,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A140,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A141,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A160,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A161,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_LPLIPAL2A180,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_METB1,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_METFR,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_SHSL1r,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DAAD,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A120,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A140,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A141,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A160,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A161,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PLIPA1A180,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DMPPS2r,stoichiometry changed: M_h_c -1->-2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GGTA,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_HBZOPT,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_RBFSa,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_RBFSb,stoichiometry changed: M_h_c 0->-2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_THZPSN,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DHNAOT4,stoichiometry changed: M_h_c -1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GLCP3,stoichiometry changed: M_h_c -1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GSPMDA,stoichiometry changed: M_h_c 0->-1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GSPMDS,stoichiometry changed: M_h_c 1->2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_FXXRDO,stoichiometry changed: M_h_c 2->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_HXAND,stoichiometry changed: M_h_c 1->2
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_PHACOAO,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_ACOCT,stoichiometry changed: M_h_c 0->1
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_AMIO_C_GLC_GLCAASE,stoichiometry changed: M_h_c 1->0
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_GMFL_MIII_GLC_GLCAASE,stoichiometry changed: M_h_c 1->2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_trdox_c,formula set to X
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_fdxox_c,formula set to X
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_GLCS3,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_METSr,stoichiometry changed: M_h_c 1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PC20M,stoichiometry changed: M_h_c 1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_CYSTGL,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_DMPPS2r,stoichiometry changed: M_h_c -1->-2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_GGTA,stoichiometry changed: M_h_c 0->-1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_HBZOPT,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_RBFSa,stoichiometry changed: M_h_c 0->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_RBFSb,stoichiometry changed: M_h_c 0->-2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_THZPSN,stoichiometry changed: M_h_c 1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_DHNAOT4,stoichiometry changed: M_h_c -1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_GLCP3,stoichiometry changed: M_h_c -1->0
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Helicobacter_pylori_26695_AGORA2,species,M_trdox_c,formula set to X
+Helicobacter_pylori_26695_AGORA2,species,M_fdxox_c,formula set to X
+Helicobacter_pylori_26695_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Helicobacter_pylori_26695_AGORA2,reaction,R_DAAD,stoichiometry changed: M_h_c 0->-1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A120,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A140,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A141,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A160,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A161,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PLIPA1A180,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_CYSTGL,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Helicobacter_pylori_26695_AGORA2,reaction,R_DMPPS2r,stoichiometry changed: M_h_c -1->-2
+Helicobacter_pylori_26695_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Helicobacter_pylori_26695_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Helicobacter_pylori_26695_AGORA2,reaction,R_GGTA,stoichiometry changed: M_h_c 0->-1
+Helicobacter_pylori_26695_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Helicobacter_pylori_26695_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_RBFSa,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_RBFSb,stoichiometry changed: M_h_c 0->-2
+Helicobacter_pylori_26695_AGORA2,reaction,R_THZPSN,stoichiometry changed: M_h_c 1->0
+Helicobacter_pylori_26695_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Helicobacter_pylori_26695_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Helicobacter_pylori_26695_AGORA2,reaction,R_ACOCT,stoichiometry changed: M_h_c 0->1
+Helicobacter_pylori_26695_AGORA2,reaction,R_DH6NAOT4,stoichiometry changed: M_h_c -1->0
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_trdox_c,formula set to X
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_fdxox_c,formula set to X
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_METS,stoichiometry changed: M_h_c 1->0
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_METFR,stoichiometry changed: M_h_c 2->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_DMPPS2r,stoichiometry changed: M_h_c -1->-2
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_RBFSa,stoichiometry changed: M_h_c 0->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_RBFSb,stoichiometry changed: M_h_c 0->-2
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_ACOCT,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_trdox_c,formula set to X
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_fdxox_c,formula set to X
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_GTHS,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_GUAD,stoichiometry changed: M_h_c -1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_METS,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DKMPPD2,stoichiometry changed: M_h_c 1->2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DKMPPD3,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_GLCS3,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A120,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A140,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A141,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A160,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A161,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_LPLIPAL2A180,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_METFR,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DAAD,stoichiometry changed: M_h_c 0->-1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_CYSTGL,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DMPPS2r,stoichiometry changed: M_h_c -1->-2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_GGTA,stoichiometry changed: M_h_c 0->-1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_HBZOPT,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_RBFSa,stoichiometry changed: M_h_c 0->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_RBFSb,stoichiometry changed: M_h_c 0->-2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_THZPSN,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DHNAOT4,stoichiometry changed: M_h_c -1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_GLCP3,stoichiometry changed: M_h_c -1->0
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_FXXRDO,stoichiometry changed: M_h_c 2->1
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_HXAND,stoichiometry changed: M_h_c 1->2
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_ACOCT,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_trdox_c,formula set to X
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_GTHS,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_GUAD,stoichiometry changed: M_h_c -1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_r0679,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_IPDDI,stoichiometry changed: M_h_c 0->-1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_CYSS3r,stoichiometry changed: M_h_c 1->2
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_METB1,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_METFR,stoichiometry changed: M_h_c 2->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_SHSL1r,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_DMATT,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_DMPPS,stoichiometry changed: M_h_c -1->-2
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_FMNAT,stoichiometry changed: M_h_c -1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_FRTT,stoichiometry changed: M_h_c 0->-1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_HBZOPT,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_HETT,stoichiometry changed: M_h_c 0->-1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_PPNCL3,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_PPTT,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_PUNP7,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_THZPSN,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_r0671,stoichiometry changed: M_h_c 1->0
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_PRAIS,stoichiometry changed: M_h_c 2->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_PRFGS,stoichiometry changed: M_h_c 1->2
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_ACOCT,stoichiometry changed: M_h_c 0->1
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_HMR_7271,stoichiometry changed: M_gdpmann_c -1->-10; M_gdp_c 1->10
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_TSULST,stoichiometry changed: M_h_c -1->1
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_copre5_c,formula C45H46CoN4O16 -> C45H45CoN4O16
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_copre5_c,formula C45H46CoN4O16 -> C45H45CoN4O16
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Helicobacter_pylori_26695_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Helicobacter_pylori_26695_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_copre5_c,formula C45H46CoN4O16 -> C45H45CoN4O16
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_ddcaACPoh_c,formula C23H41N2O8PRS -> C23H43N2O9PRS
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_5thf_c,formula C39H41N11O18 -> C39H45N11O18
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_biomass345,biomass species M_pe180_c -> M_g3pe_12ocdca_c
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_biomass345,biomass species M_peai17_c -> M_g3pe_aihpdca_c
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_biomass345,biomass species M_pei17_c -> M_g3pe_ihpdca_c
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_biomass345,biomass species M_pg180_c -> M_pg_12ocdca_c
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_pe180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_peai17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_pei17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_pg180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,biomass species M_pe180_c -> M_g3pe_12ocdca_c
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,biomass species M_peai17_c -> M_g3pe_aihpdca_c
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,biomass species M_pei17_c -> M_g3pe_ihpdca_c
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,biomass species M_pg180_c -> M_pg_12ocdca_c
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,species,M_pe180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,species,M_peai17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,species,M_pei17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,species,M_pg180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_biomass276,biomass species M_pe180_c -> M_g3pe_12ocdca_c
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_biomass276,biomass species M_peai17_c -> M_g3pe_aihpdca_c
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_biomass276,biomass species M_pei17_c -> M_g3pe_ihpdca_c
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_biomass276,biomass species M_pg180_c -> M_pg_12ocdca_c
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_pe180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_peai17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_pei17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Prevotella_melaninogenica_ATCC_25845_AGORA2,species,M_pg180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_biomass345,biomass species M_pe180_c -> M_g3pe_12ocdca_c
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_biomass345,biomass species M_peai17_c -> M_g3pe_aihpdca_c
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_biomass345,biomass species M_pei17_c -> M_g3pe_ihpdca_c
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_biomass345,biomass species M_pg180_c -> M_pg_12ocdca_c
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_pe180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_peai17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_pei17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,species,M_pg180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_biomass130,biomass species M_pe180_c -> M_g3pe_12ocdca_c
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_biomass130,biomass species M_peai17_c -> M_g3pe_aihpdca_c
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_biomass130,biomass species M_pei17_c -> M_g3pe_ihpdca_c
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_biomass130,biomass species M_pg180_c -> M_pg_12ocdca_c
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_pe180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_peai17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_pei17_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Streptococcus_salivarius_JIM8777_AGORA2,species,M_pg180_c,"removed nameless placeholder (no formula, unused after biomass remap)"
+Escherichia_coli_UTI89_UPEC_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Escherichia_coli_UTI89_UPEC_AGORA2,species,M_phyldpp_c,formula C20H40O7P2 -> C20H38O7P2
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,species,M_phyldpp_c,formula C20H40O7P2 -> C20H38O7P2
+Helicobacter_pylori_26695_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,SBO SBO:0000629 -> SBO:0000176
+Prevotella_melaninogenica_ATCC_25845_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Streptococcus_salivarius_JIM8777_AGORA2,reaction,R_DM_atp_c_,SBO SBO:0000628 -> SBO:0000176
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,reaction,R_bio1,SBO restored to SBO:0000629 (biomass)
+Escherichia_coli_UTI89_UPEC_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 2153/2580 metabolites, 1980/3217 reactions"
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 849/1150 metabolites, 874/1248 reactions"
+Helicobacter_pylori_26695_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 771/1073 metabolites, 794/1139 reactions"
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,annotation,all,"MetaNetX 4.5 IDs added: 621/879 metabolites, 583/915 reactions"
+Prevotella_melaninogenica_ATCC_25845_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 805/1072 metabolites, 817/1130 reactions"
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 1139/1540 metabolites, 1380/1861 reactions"
+Streptococcus_salivarius_JIM8777_AGORA2,annotation,all,"MetaNetX 4.5 IDs added: 769/1006 metabolites, 791/1161 reactions"
+Escherichia_coli_UTI89_UPEC_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 561 exchange/demand/sink reactions
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 136 exchange/demand/sink reactions
+Helicobacter_pylori_26695_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 116 exchange/demand/sink reactions
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 111 exchange/demand/sink reactions
+Prevotella_melaninogenica_ATCC_25845_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 118 exchange/demand/sink reactions
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 190 exchange/demand/sink reactions
+Streptococcus_salivarius_JIM8777_AGORA2,bounds,boundary reactions,uptake lower bound capped from <-10 to -10 mmol/gDW/h on 137 exchange/demand/sink reactions
+Escherichia_coli_UTI89_UPEC_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 561 exchange/demand/sink reactions
+Fusobacterium_nucleatum_subsp_nucleatum_ATCC_25586_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 136 exchange/demand/sink reactions
+Helicobacter_pylori_26695_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 116 exchange/demand/sink reactions
+Lactobacillus_kalixensis_DSM_16043_AGORA2_v2_01,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 111 exchange/demand/sink reactions
+Prevotella_melaninogenica_ATCC_25845_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 118 exchange/demand/sink reactions
+Pseudomonas_aeruginosa_NCGM2_S1_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 190 exchange/demand/sink reactions
+Streptococcus_salivarius_JIM8777_AGORA2,bounds,boundary reactions,uptake lower bound set to -1 mmol/gDW/h (originally -1000) on 137 exchange/demand/sink reactions
