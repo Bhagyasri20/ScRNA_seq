@@ -1,0 +1,7 @@
+model,rxns_before,rxns_after,energy_flags,energy_fixed,blocked,deadend_mets,inconsistent_mets,min_growth
+shared_0h,9290,9290,0,0,2,0,25,0.170346765175767
+compartment_0h,10606,10606,0,0,2,0,25,0.170346765175745
+shared_2h,9358,9358,0,0,2,0,25,0.182514391259751
+compartment_2h,10687,10687,0,0,9,0,25,0.166259042651503
+shared_6h,9214,9214,0,0,6,0,25,0.175962514956791
+compartment_6h,10470,10470,0,0,2,0,25,0.175962514956814
